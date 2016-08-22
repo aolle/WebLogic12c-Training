@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: 
+Weblogic-Application-Version: v2
+Created-By: Àngel Ollé Blázquez (web@olleb.com)
